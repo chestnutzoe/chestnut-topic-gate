@@ -1,9 +1,9 @@
 ---
-name: creator-topic-gate
-description: Creator topic screening workflow for deciding whether a content idea is worth making before drafting. Use when a creator asks if a topic, angle, hook, video idea, post idea, newsletter idea, sponsored angle, or content concept is strong, too self-referential, likely to perform, or should be reframed. First infer the creator profile from local markdown/text docs when available, then ask concise questions only for missing essentials, and output PASS / PIVOT / KILL with stronger angles.
+name: chestnut-topic-gate
+description: Chestnut Topic Gate is a creator topic screening workflow for deciding whether a content idea is worth making before drafting. Use when a creator asks if a topic, angle, hook, video idea, post idea, newsletter idea, sponsored angle, or content concept is strong, too self-referential, likely to perform, or should be reframed. First infer the creator profile from local markdown/text docs when available, then ask concise questions only for missing essentials, and output PASS / PIVOT / KILL with stronger angles.
 ---
 
-# Creator Topic Gate
+# Chestnut Topic Gate
 
 Use this skill as a pre-writing filter. Its job is to protect production time by separating:
 
@@ -114,7 +114,7 @@ When the raw topic is self-referential, translate it into one of these:
 Use this shape:
 
 ```markdown
-## Creator Topic Gate
+## Chestnut Topic Gate
 
 **Verdict:** PASS / PIVOT / KILL
 

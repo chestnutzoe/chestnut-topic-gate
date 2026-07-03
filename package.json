@@ -1,5 +1,5 @@
 {
-  "name": "creator-topic-gate",
+  "name": "chestnut-topic-gate",
   "version": "0.1.0",
-  "description": "A public creator topic screening skill using PASS / PIVOT / KILL before drafting content."
+  "description": "A public Chestnut creator topic screening skill using PASS / PIVOT / KILL before drafting content."
 }

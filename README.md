@@ -1,4 +1,4 @@
-# creator-topic-gate
+# chestnut-topic-gate
 
 **Before you write the post, check if the topic is worth making.**
 
@@ -24,7 +24,7 @@ Then it judges the topic with a simple verdict:
 ## Example Prompts
 
 ```text
-Use Creator Topic Gate to judge this idea: "Why I stopped chasing productivity."
+Use Chestnut Topic Gate to judge this idea: "Why I stopped chasing productivity."
 ```
 
 ```text

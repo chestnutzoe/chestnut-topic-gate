@@ -1,4 +1,4 @@
 interface:
-  display_name: "Creator Topic Gate"
+  display_name: "Chestnut Topic Gate"
   short_description: "筛选内容选题：先读取创作者资料，再用 PASS/PIVOT/KILL 判断是否值得写。"
-  default_prompt: "用 Creator Topic Gate 帮我判断这个选题值不值得做。"
+  default_prompt: "用 Chestnut Topic Gate 帮我判断这个选题值不值得做。"

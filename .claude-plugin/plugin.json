@@ -1,13 +1,13 @@
 {
-  "name": "creator-topic-gate",
+  "name": "chestnut-topic-gate",
   "version": "0.1.0",
-  "description": "Creator topic screening skill that reads local creator context when available, then uses PASS / PIVOT / KILL to decide whether a content idea is worth making.",
+  "description": "Chestnut Topic Gate is a creator topic screening skill that reads local creator context when available, then uses PASS / PIVOT / KILL to decide whether a content idea is worth making.",
   "author": {
     "name": "Zoe (Chestnut)",
     "url": "https://chestnutzoe.com"
   },
   "keywords": ["creator", "content", "topic", "hook", "screening", "strategy", "short-video", "newsletter"],
   "skills": [
-    "./skills/creator-topic-gate"
+    "./skills/chestnut-topic-gate"
   ]
 }
