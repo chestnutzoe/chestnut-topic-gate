@@ -1,0 +1,23 @@
+{
+  "name": "chestnutzoe",
+  "owner": {
+    "name": "Zoe (Chestnut)"
+  },
+  "metadata": {
+    "description": "Creator topic screening skill using local context and PASS / PIVOT / KILL before drafting content",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "creator-topic-gate",
+      "source": "./",
+      "description": "Screen content ideas before writing by reading creator context, judging audience demand, and returning PASS / PIVOT / KILL with stronger angles.",
+      "version": "0.1.0",
+      "category": "content-creation",
+      "keywords": ["creator", "content", "topic", "hook", "screening", "strategy"],
+      "skills": [
+        "./skills/creator-topic-gate"
+      ]
+    }
+  ]
+}
